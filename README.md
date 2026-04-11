@@ -14,6 +14,11 @@ The main objective of this project is to analyze Amazon Prime Video content and 
 - Year-wise content release trends
 - Ratings and category analysis
 
+  
+##  Project Images
+
+![Image 1](Assets/img_1.png)
+
  -> Tools Used
  
 - Power BI
